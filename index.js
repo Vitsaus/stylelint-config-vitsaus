@@ -57,7 +57,7 @@ module.exports = {
       'no-missing-eof-newline': true,
       'number-leading-zero': 'always',
       'number-no-trailing-zeros': true,
-      'number-zero-length-no-unit': true,
+      'length-zero-no-unit': true,
       'property-case': 'lower',
       'rule-nested-empty-line-before': [ 'always', {
           ignore: [ 'after-comment' ]
